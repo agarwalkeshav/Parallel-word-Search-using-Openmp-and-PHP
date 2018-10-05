@@ -221,16 +221,14 @@ $query = $_GET['query'];
   <div class="container contentContainer" id="footer" >
     <div class="row" >
       <h1 class="center title">
-      Git Hub Repository!!
         
       </h1>
       <p class="lead center">
       Made By:<br>
-                1.Snigdh Gupta &nbsp;&nbsp;&nbsp; 149105462<br>
-                2.Sumitkumar Yadav &nbsp;&nbsp;&nbsp; 149105478
+                1.Angad Sharma
+                2.Amber Verma 
         
       </p>
-     <center><h2><a href="https://github.com/ysumit99">Get code!</a></h2></center>
       
     </div>
 
