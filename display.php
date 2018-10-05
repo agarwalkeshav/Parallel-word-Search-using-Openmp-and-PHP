@@ -134,8 +134,7 @@ include("config.php");
 
 
 $query = $_GET['query'];
-
- 
+        echo $query;
         $raw_results = mysqli_query($con,"SELECT * FROM list
             WHERE string = '$query' ");
 
